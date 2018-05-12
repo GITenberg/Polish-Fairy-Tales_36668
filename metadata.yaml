@@ -1,0 +1,46 @@
+_repo: Polish-Fairy-Tales_36668
+_version: 0.1.0
+alternative_title: Bajarz polski. Selections. English
+contributor:
+  illustrator:
+    agent_name: Walton, Cecile
+    gutenberg_agent_id: '38410'
+    url: http://www.gutenberg.org/2009/agents/38410
+  translator:
+    agent_name: Biggs, Maude Ashurst
+    gutenberg_agent_id: '38411'
+    url: http://www.gutenberg.org/2009/agents/38411
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gliński, A. J. (Antoni Józef)
+    aliases:
+    - Gliński, Antoni Józef
+    - Glinski, A. J. (Antoni Jozef)
+    birthdate: 1817
+    deathdate: 1866
+    gutenberg_agent_id: '38409'
+    url: http://www.gutenberg.org/2009/agents/38409
+description: ''
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36668'
+  lccn: '21000658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Belarus'
+- !lcsh 'Polish people -- Belarus -- Folklore'
+- !lcsh 'Folklore -- Poland'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Poland'
+tableOfContents: The frog princess -- Princess Miranda and Prince Hero -- The eagles
+  -- The whirlwind -- The good ferryman and the water nymphs -- The princess of the
+  Brazen Mountain -- The bear in the forest hut.
+title: Polish Fairy Tales
+url: http://www.gutenberg.org/ebooks/36668
